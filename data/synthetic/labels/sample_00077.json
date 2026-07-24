@@ -1,0 +1,13 @@
+{
+  "id": "sample_00077.png",
+  "label": "tampered",
+  "forgery_type": "text_edit",
+  "bbox": [
+    0.7766,
+    0.035,
+    0.9047,
+    0.14
+  ],
+  "instruction": "Examine this identity document image. Is it authentic or has it been tampered with? If tampered, describe what was altered and where.",
+  "target_text": "TAMPERED. A text field was erased and re-rendered with different content, consistent with digit/date/name substitution. Approximate location (normalized bbox): [0.7766, 0.035, 0.9047, 0.14]."
+}

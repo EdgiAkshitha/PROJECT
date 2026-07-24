@@ -1,0 +1,13 @@
+{
+  "id": "sample_00053.png",
+  "label": "tampered",
+  "forgery_type": "splicing",
+  "bbox": [
+    0.0922,
+    0.3325,
+    0.3297,
+    0.59
+  ],
+  "instruction": "Examine this identity document image. Is it authentic or has it been tampered with? If tampered, describe what was altered and where.",
+  "target_text": "TAMPERED. Content from a different source document was spliced into this region, most consistent with a photo or signature swap. Approximate location (normalized bbox): [0.0922, 0.3325, 0.3297, 0.59]."
+}

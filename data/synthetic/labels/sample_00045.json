@@ -1,0 +1,13 @@
+{
+  "id": "sample_00045.png",
+  "label": "tampered",
+  "forgery_type": "copy_move",
+  "bbox": [
+    0.05,
+    0.725,
+    0.1641,
+    1.0
+  ],
+  "instruction": "Examine this identity document image. Is it authentic or has it been tampered with? If tampered, describe what was altered and where.",
+  "target_text": "TAMPERED. A region of the image was duplicated from elsewhere in the same document and pasted over the target area (copy-move forgery), likely altering a numeric or text field. Approximate location (normalized bbox): [0.05, 0.725, 0.1641, 1.0]."
+}

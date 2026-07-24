@@ -1,0 +1,15 @@
+# Core
+torch>=2.2
+transformers>=4.45
+accelerate>=0.33
+peft>=0.12
+bitsandbytes>=0.43   # optional 4-bit loading for low-VRAM Colab runs
+
+# Data / imaging
+opencv-python-headless>=4.9
+Pillow>=10.0
+numpy>=1.26
+
+# Utilities
+tqdm
+matplotlib   # for optional plots of the robustness report

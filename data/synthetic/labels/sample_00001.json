@@ -1,0 +1,8 @@
+{
+  "id": "sample_00001.png",
+  "label": "authentic",
+  "forgery_type": null,
+  "bbox": null,
+  "instruction": "Examine this identity document image. Is it authentic or has it been tampered with? If tampered, describe what was altered and where.",
+  "target_text": "AUTHENTIC. No signs of digital tampering, copy-move duplication, splicing, or text substitution were detected in this document."
+}

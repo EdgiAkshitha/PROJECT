@@ -1,0 +1,13 @@
+{
+  "id": "sample_00042.png",
+  "label": "tampered",
+  "forgery_type": "inpaint_removal",
+  "bbox": [
+    0.0813,
+    0.1175,
+    0.2219,
+    0.2275
+  ],
+  "instruction": "Examine this identity document image. Is it authentic or has it been tampered with? If tampered, describe what was altered and where.",
+  "target_text": "TAMPERED. A stamp, watermark, or security mark appears to have been digitally removed and the background reconstructed. Approximate location (normalized bbox): [0.0813, 0.1175, 0.2219, 0.2275]."
+}

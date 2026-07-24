@@ -1,0 +1,247 @@
+{
+  "summary": {
+    "clean": 45.0,
+    "jpeg_q30": 45.0,
+    "jpeg_q15": 42.5,
+    "blur_k5": 45.0,
+    "blur_k9": 45.0,
+    "gaussian_noise_s15": 50.0,
+    "gaussian_noise_s30": 55.0,
+    "rotate_5deg": 45.0,
+    "rotate_15deg": 45.0,
+    "low_brightness": 45.0,
+    "adversarial_seam_smooth": 45.0
+  },
+  "per_type": {
+    "text_edit": {
+      "clean": {
+        "correct": 0,
+        "total": 6
+      },
+      "jpeg_q30": {
+        "correct": 0,
+        "total": 6
+      },
+      "jpeg_q15": {
+        "correct": 0,
+        "total": 6
+      },
+      "blur_k5": {
+        "correct": 0,
+        "total": 6
+      },
+      "blur_k9": {
+        "correct": 0,
+        "total": 6
+      },
+      "gaussian_noise_s15": {
+        "correct": 6,
+        "total": 6
+      },
+      "gaussian_noise_s30": {
+        "correct": 6,
+        "total": 6
+      },
+      "rotate_5deg": {
+        "correct": 0,
+        "total": 6
+      },
+      "rotate_15deg": {
+        "correct": 0,
+        "total": 6
+      },
+      "low_brightness": {
+        "correct": 0,
+        "total": 6
+      },
+      "adversarial_seam_smooth": {
+        "correct": 0,
+        "total": 6
+      }
+    },
+    "copy_move": {
+      "clean": {
+        "correct": 0,
+        "total": 5
+      },
+      "jpeg_q30": {
+        "correct": 0,
+        "total": 5
+      },
+      "jpeg_q15": {
+        "correct": 0,
+        "total": 5
+      },
+      "blur_k5": {
+        "correct": 0,
+        "total": 5
+      },
+      "blur_k9": {
+        "correct": 0,
+        "total": 5
+      },
+      "gaussian_noise_s15": {
+        "correct": 0,
+        "total": 5
+      },
+      "gaussian_noise_s30": {
+        "correct": 5,
+        "total": 5
+      },
+      "rotate_5deg": {
+        "correct": 0,
+        "total": 5
+      },
+      "rotate_15deg": {
+        "correct": 0,
+        "total": 5
+      },
+      "low_brightness": {
+        "correct": 0,
+        "total": 5
+      },
+      "adversarial_seam_smooth": {
+        "correct": 0,
+        "total": 5
+      }
+    },
+    "splicing": {
+      "clean": {
+        "correct": 0,
+        "total": 5
+      },
+      "jpeg_q30": {
+        "correct": 0,
+        "total": 5
+      },
+      "jpeg_q15": {
+        "correct": 1,
+        "total": 5
+      },
+      "blur_k5": {
+        "correct": 0,
+        "total": 5
+      },
+      "blur_k9": {
+        "correct": 0,
+        "total": 5
+      },
+      "gaussian_noise_s15": {
+        "correct": 2,
+        "total": 5
+      },
+      "gaussian_noise_s30": {
+        "correct": 5,
+        "total": 5
+      },
+      "rotate_5deg": {
+        "correct": 0,
+        "total": 5
+      },
+      "rotate_15deg": {
+        "correct": 0,
+        "total": 5
+      },
+      "low_brightness": {
+        "correct": 0,
+        "total": 5
+      },
+      "adversarial_seam_smooth": {
+        "correct": 0,
+        "total": 5
+      }
+    },
+    "authentic": {
+      "clean": {
+        "correct": 18,
+        "total": 18
+      },
+      "jpeg_q30": {
+        "correct": 18,
+        "total": 18
+      },
+      "jpeg_q15": {
+        "correct": 16,
+        "total": 18
+      },
+      "blur_k5": {
+        "correct": 18,
+        "total": 18
+      },
+      "blur_k9": {
+        "correct": 18,
+        "total": 18
+      },
+      "gaussian_noise_s15": {
+        "correct": 12,
+        "total": 18
+      },
+      "gaussian_noise_s30": {
+        "correct": 0,
+        "total": 18
+      },
+      "rotate_5deg": {
+        "correct": 18,
+        "total": 18
+      },
+      "rotate_15deg": {
+        "correct": 18,
+        "total": 18
+      },
+      "low_brightness": {
+        "correct": 18,
+        "total": 18
+      },
+      "adversarial_seam_smooth": {
+        "correct": 18,
+        "total": 18
+      }
+    },
+    "inpaint_removal": {
+      "clean": {
+        "correct": 0,
+        "total": 6
+      },
+      "jpeg_q30": {
+        "correct": 0,
+        "total": 6
+      },
+      "jpeg_q15": {
+        "correct": 0,
+        "total": 6
+      },
+      "blur_k5": {
+        "correct": 0,
+        "total": 6
+      },
+      "blur_k9": {
+        "correct": 0,
+        "total": 6
+      },
+      "gaussian_noise_s15": {
+        "correct": 0,
+        "total": 6
+      },
+      "gaussian_noise_s30": {
+        "correct": 6,
+        "total": 6
+      },
+      "rotate_5deg": {
+        "correct": 0,
+        "total": 6
+      },
+      "rotate_15deg": {
+        "correct": 0,
+        "total": 6
+      },
+      "low_brightness": {
+        "correct": 0,
+        "total": 6
+      },
+      "adversarial_seam_smooth": {
+        "correct": 0,
+        "total": 6
+      }
+    }
+  }
+}
